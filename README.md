@@ -12,8 +12,11 @@ Videos containing instances of physical altercations or confrontations in the pa
 Videos showcasing typical activities in a parking lot, such as walking, talking, entering/exiting people, and general movement. 
 
 
-If you use ParkingFightDataset in your research, please cite the following paper:
+## Citation
 
+If you use **ParkingFightDataset** in your research, please cite the following paper:
+
+```bibtex
 @inproceedings{ehsan2022daba,
   title={DABA-Net: Deep Acceleration-Based Autoencoder Network for Violence Detection in Surveillance Cameras},
   author={Ehsan, Tahereh Zarrat and Nahvi, Manoochehr and Mohtavipour, Seyed Mehdi},
@@ -22,3 +25,4 @@ If you use ParkingFightDataset in your research, please cite the following paper
   year={2022},
   organization={IEEE}
 }
+
