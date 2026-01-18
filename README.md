@@ -10,3 +10,15 @@ Videos containing instances of physical altercations or confrontations in the pa
 
 #### Normal Action: 
 Videos showcasing typical activities in a parking lot, such as walking, talking, entering/exiting people, and general movement. 
+
+
+If you use ParkingFightDataset in your research, please cite the following paper:
+
+@inproceedings{ehsan2022daba,
+  title={DABA-Net: Deep Acceleration-Based Autoencoder Network for Violence Detection in Surveillance Cameras},
+  author={Ehsan, Tahereh Zarrat and Nahvi, Manoochehr and Mohtavipour, Seyed Mehdi},
+  booktitle={2022 International Conference on Machine Vision and Image Processing (MVIP)},
+  pages={1--6},
+  year={2022},
+  organization={IEEE}
+}
